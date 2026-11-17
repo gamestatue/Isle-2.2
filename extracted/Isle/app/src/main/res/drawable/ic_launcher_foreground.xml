@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- the island -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M32,45h44a9,9 0 0 1 0,18h-44a9,9 0 0 1 0,-18z" />
+    <!-- camera hole -->
+    <path
+        android:fillColor="#1C1C1E"
+        android:pathData="M54,54m-4.5,0a4.5,4.5 0 1,1 9,0a4.5,4.5 0 1,1 -9,0" />
+    <!-- status dot -->
+    <path
+        android:fillColor="#30D158"
+        android:pathData="M38,54m-2.6,0a2.6,2.6 0 1,1 5.2,0a2.6,2.6 0 1,1 -5.2,0" />
+</vector>
